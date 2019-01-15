@@ -1,0 +1,11 @@
+{
+  "name": "dipesh",
+  "version": "1.0.0",
+  "description": "This is the Ahead Course of Professor Tom ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dipesh Goswami",
+  "license": "ISC"
+}
